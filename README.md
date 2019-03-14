@@ -20,7 +20,7 @@ Regarding what we've been taught and shown, this code differs as it sorts the mo
 
 ### Screens
 
-<img src="images/git1.jpg" width="100%">
+<img src="image/git1.jpg" width="100%">
 
 ## Copyrights
 
