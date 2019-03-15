@@ -1,4 +1,3 @@
-import webbrowser
 from operator import attrgetter
 
 

@@ -16,7 +16,7 @@ Provided that Python3 is already installed on the machine, just run `entert_cent
 
 ### Specifics
 
-Regarding what we've been taught and shown, this code differs as it sorts the movies alphabetically. Also, the javascript animation upon loading the movies tiles were changed as well.
+Regarding what we've been taught and shown, this code differs as it sorts the movies alphabetically and displays the title short story. Also, the javascript animation upon loading the movies tiles were changed as well.
 
 ### Screens
 
