@@ -43,9 +43,8 @@ kings_speech = media.Movie(
 beautiful_mind = media.Movie(
                 'A Beautiful Mind',
                 'The life of John Nash, mathematician.',
-                'https://upload.wikimedia.org/wikipedia/'
-                'en/thumb/b/b8/A_Beautiful_Mind_Poster.jpg/'
-                '220px-A_Beautiful_Mind_Poster.jpg',
+                'https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/A_Beau'
+                'tiful_Mind_Poster.jpg/220px-A_Beautiful_Mind_Poster.jpg',
                 'https://www.youtube.com/watch?v=9wZM7CQY130',
                 movies_list)
 
